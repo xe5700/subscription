@@ -1,6 +1,6 @@
-# @gkd-kit/subscription
+# @xe5700/subscription
 
-GKD 默认订阅规则
+GKD XE5700订阅规则
 
 当前订阅为 APP 自带, 无需手动添加, 当前版本: v--VERSION--
 
