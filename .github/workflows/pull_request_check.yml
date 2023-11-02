@@ -3,7 +3,7 @@ name: pull_request_check
 on:
   pull_request:
     branches:
-      - main
+      - xe5700
 
 jobs:
   check:

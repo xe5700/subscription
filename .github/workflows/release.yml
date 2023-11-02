@@ -3,7 +3,7 @@ name: Release
 on:
   push:
     branches:
-      - 'main'
+      - 'xe5700'
 
 jobs:
   release:
