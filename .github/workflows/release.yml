@@ -8,7 +8,7 @@ on:
 jobs:
   release:
     # prevent run on fork
-    if: ${{ github.repository == 'gkd-kit/subscription' && startsWith(github.event.head_commit.message, 'chore(xe5700):') && contains(github.event.head_commit.message, 'release') }}
+    if: ${{ github.repository == 'xe5700/subscription' && startsWith(github.event.head_commit.message, 'chore(xe5700):') && contains(github.event.head_commit.message, 'release') }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -51,4 +51,4 @@ jobs:
           pnpm publish
 
       - name: sync npmmirror
-        run: curl -X PUT 'https://registry-direct.npmmirror.com/@gkd-kit/subscription/sync'
+        run: curl -X PUT 'https://registry-direct.npmmirror.com/@xe5700/gkd_subscription/sync'

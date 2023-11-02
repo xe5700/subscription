@@ -1,5 +1,5 @@
 {
-  "name": "@gkd-kit/subscription",
+  "name": "@xe5700/gkd_subscription",
   "type": "module",
   "version": "1.85.0",
   "main": "./dist/gkd.json",

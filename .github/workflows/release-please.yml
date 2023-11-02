@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   release-please:
-    if: github.repository == 'gkd-kit/subscription'
+    if: github.repository == 'xe5700/subscription'
     runs-on: ubuntu-latest
     steps:
       - uses: google-github-actions/release-please-action@v3
