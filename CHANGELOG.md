@@ -1,5 +1,9 @@
 # Changelog
+## [3.0.0] (2023-11-3)
 
+
+### Features
+* **韩小剧:** 开屏广告
 ## [1.85.0](https://github.com/gkd-kit/subscription/compare/v1.84.0...v1.85.0) (2023-10-31)
 
 
