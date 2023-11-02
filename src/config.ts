@@ -24,9 +24,9 @@ for await (const tsFp of walk(process.cwd() + '/src/apps')) {
 
 const subsConfig: SubscriptionConfig = {
   id: 0,
-  name: '默认订阅',
-  author: 'lisonge',
-  supportUri: 'https://github.com/gkd-kit/subscription',
+  name: 'XE5700的私人订阅',
+  author: 'xe5700',
+  supportUri: 'https://github.com/xe5700/subscription',
   apps: _.sortBy(apps, (a) => {
     const pyName = pinyin(a.name, { separator: '', toneType: 'none' });
     if (pyName === a.name) return a.name;
