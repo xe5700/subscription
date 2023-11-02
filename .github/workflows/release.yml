@@ -51,4 +51,4 @@ jobs:
           pnpm publish
 
       - name: sync npmmirror
-        run: curl -X PUT 'https://registry-direct.npmmirror.com/@xe5700/gkd_subscription/sync'
+        run: curl -X PUT 'https://registry-direct.npmmirror.com/@xe5700/gkd_subscription_5700/sync'
