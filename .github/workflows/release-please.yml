@@ -1,9 +1,6 @@
 name: release-please
 
-on:
-  push:
-    branches:
-      - xe5700
+on: workflow_dispatch
 
 permissions:
   contents: write
