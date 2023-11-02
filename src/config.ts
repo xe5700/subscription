@@ -23,7 +23,7 @@ for await (const tsFp of walk(process.cwd() + '/src/apps')) {
 }
 
 const subsConfig: SubscriptionConfig = {
-  id: 0,
+  id: 5700,
   name: 'XE5700的私人订阅',
   author: 'xe5700',
   supportUri: 'https://github.com/xe5700/subscription',
