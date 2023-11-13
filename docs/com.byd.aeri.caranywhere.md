@@ -4,4 +4,6 @@
 
 ## 跳过自动更新
 
+默认禁用
+
 - [快照-0](https://gkd-kit.gitee.io/import/13242667)
