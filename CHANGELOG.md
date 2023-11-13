@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/xe5700/subscription/compare/v1.0.1...v1.1.0) (2023-11-13)
+
+
+### Features
+
+* 更新到1.0.2 ([e897751](https://github.com/xe5700/subscription/commit/e8977518b31df7a9933c873f55c36f25af2e4c8c))
+
 ## [1.0.1](https://github.com/xe5700/subscription/compare/v1.0.0...v1.0.1) (2023-11-13)
 
 
