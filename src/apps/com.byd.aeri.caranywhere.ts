@@ -16,7 +16,7 @@ export default defineAppConfig({
         },
         {
           matches: '[id="com.byd.aeri.caranywhere:id/tv_cancel"]',
-          snapshotUrls: 'https://gkd-kit.gitee.io/import/13242667', //获取链接的方法在上一步有说明
+          snapshotUrls: 'https://i.gkd.li/import/13348383', //获取链接的方法在上一步有说明
           preKeys: [1],
         },
       ],
