@@ -6,6 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
+      enable: false,
       name: '跳过自动更新',
       activityIds: ['com.byd.aeri.splash.module_splash.activity.TabManager'],
       rules: [
