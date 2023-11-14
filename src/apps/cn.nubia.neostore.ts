@@ -32,7 +32,7 @@ export default defineAppConfig({
         },
         {
           matches: '[id="cn.nubia.neostore:id/iv_button_close"]',
-          snapshotUrls: 'https://gkd-kit.gitee.io/import/13243131', //获取链接的方法在上一步有说明
+          snapshotUrls: 'https://gkd-kit.gitee.io/import/13243183', //获取链接的方法在上一步有说明
           preKeys: [1],
         },
       ],
