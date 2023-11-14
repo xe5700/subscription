@@ -9,8 +9,11 @@ export default defineAppConfig({
       name: '开屏广告',
       quickFind: true,
       matchLauncher: true,
-      activityIds: ['com.baidu.baidumaps.MapsActivity', ''],
-      rules: ['TextView[text^="跳过"][text.length<=5]'],
+      activityIds: [
+        'com.baidu.baidumaps.MapsActivity',
+        'com.baidu.baidumaps.WelcomeScreen',
+      ],
+      rules: ['TextView[text^="跳过"][text.length<=6]'],
       snapshotUrls: [
         'https://i.gkd.li/import/12924598',
         'https://i.gkd.li/import/12909174',
