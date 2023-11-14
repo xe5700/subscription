@@ -1,7 +1,7 @@
 {
   "name": "@xe5700/gkd_subscription_5700",
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "main": "./dist/gkd.json",
   "unpkg": "./dist/gkd.json",
   "jsdelivr": "./dist/gkd.json",
